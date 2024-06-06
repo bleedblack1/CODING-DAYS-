@@ -38,7 +38,7 @@ public class function {
     public static void main (String[] args){
         Scanner scn = new Scanner(System.in);
 
-        /*System.out.println("enter the value of a ");
+        System.out.println("enter the value of a ");
             int a = scn.nextInt();
         System.out.println("enter the value of b ");
             int b = scn.nextInt();
@@ -53,7 +53,7 @@ public class function {
         
             int x = scn.nextInt();
             isEven(x);
-        */
+        
 
         System.out.println("enter the value of z ");
             int z = scn.nextInt();
