@@ -23,17 +23,6 @@ public class function {
         
     }
 
-    public static void palindrome(int z){
-        int ld = z%10;
-        
-         do {
-            System.out.print(ld);
-            z=z/10;
-            }
-            while(z>0);
-
-
-    }
 
     public static void main (String[] args){
         Scanner scn = new Scanner(System.in);
@@ -54,13 +43,6 @@ public class function {
             int x = scn.nextInt();
             isEven(x);
         
-
-        System.out.println("enter the value of z ");
-            int z = scn.nextInt();
-
-            palindrome(z);
-    
-       
         }
 
     
