@@ -153,7 +153,7 @@ public class matrix {
     }
     
     */
-
+// search element from the matrix
     public static boolean searchele(int matrix[][] , int key ) {
         int row =0 , col = matrix[0].length -1;
 
